@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="./shiba.svg" width="560" alt="A happy shiba inu waving a paw">
+  <img src="./shiba.svg" width="300" alt="A happy shiba inu waving a paw">
 </div>
 
 
