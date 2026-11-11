@@ -1,3 +1,11 @@
+
+
+<div align="center">
+  <img src="./shiba.svg" width="560" alt="A happy shiba inu waving a paw">
+</div>
+
+
+
 ## Hi there 👋
 
 <!--
